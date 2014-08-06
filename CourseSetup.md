@@ -56,7 +56,30 @@ Additionally, teachers can plan a presentation and/or workshop when he/she has t
    * ...
 
 
-## Example course topics
+## Course evening timetable
+
+A course evening has this timetable:
+19:00-19:15: students of Arduino course and Makecourse come in, time for informal chat
+19:15-19:20: Richel tells both groups of students what the planning of both courses is
+19:20-19:25: Students choose their course for that evening
+19:25-20:30: Students are split up, courses do their lecture/workshop seperately, students are allowed to work on their projects already
+20:30-21:00: Break
+21:00-22:00: Students of both groups work on projects, mixing freely
+
+### Special course evenings
+
+#### First evening
+
+A course evening has this timetable:
+19:00-19:15: students of Arduino course and Makecourse come in, time for informal chat
+19:15-19:25: Richel introduces both groups of students to the Makercourse
+19:25-19:30: Students choose their course for that evening
+19:30-20:00: Makercourse pitches as much projects as there are project leaders
+20:00-20:30: Students are put into project groups, start of projects
+20:30-21:00: Break
+21:00-22:00: Students of both groups work on projects, mixing freely
+
+## Example course lectures/workshops
 
   * How to observe through a microscope
   * What is the anatomy of [an organism] and how to dissect it
@@ -64,11 +87,11 @@ Additionally, teachers can plan a presentation and/or workshop when he/she has t
   * How to cook with insects
   * How to grow plants in a window
   * Design a casing in Sketchup and laser-cut it
-  * Design an object in Sketchup and 3D print it
+  * Design an object in Sketchup and 3D print it: ?Victor
   * The use of a PCR reaction
   * How to select a primer for a PCR reaction
   * How does taste work and how to hack it
-  * How to let an Arduino do measurements
+  * How to let an Arduino do measurements: Richel
   * How to paint with bacteria
 
 ## Example course projects
@@ -80,5 +103,6 @@ Additionally, teachers can plan a presentation and/or workshop when he/she has t
   * Mealworm farm
   * Ant farm
   * Hydroponics
+  * Building a 3D printer: Victor
 
 But hey, the students probably have ideas themselves as well
