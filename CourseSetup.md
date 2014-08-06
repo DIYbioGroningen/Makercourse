@@ -93,6 +93,7 @@ A course evening has this timetable:
   * How does taste work and how to hack it
   * How to let an Arduino do measurements: Richel
   * How to paint with bacteria
+  * Law of Wohm: Peter
 
 ## Example course projects
 
