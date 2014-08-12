@@ -105,5 +105,6 @@ A course evening has this timetable:
   * Ant farm
   * Hydroponics
   * Building a 3D printer: Victor
+  * http://openbci.com : Opensource Brain-Controlled Interface
 
 But hey, the students probably have ideas themselves as well
