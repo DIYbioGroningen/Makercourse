@@ -103,7 +103,7 @@ A course evening has this timetable:
   * Bat detector
   * Mealworm farm
   * Ant farm
-  * Hydroponics
+  * [3Dponics](http://www.3dponics.com)
   * Building a 3D printer: Victor
   * http://openbci.com : Opensource Brain-Controlled Interface
 
