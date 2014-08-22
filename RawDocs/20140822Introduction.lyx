@@ -93,6 +93,10 @@ Overzicht
 \end_layout
 
 \begin_layout Enumerate
+Doel
+\end_layout
+
+\begin_layout Enumerate
 Wat is de opzet van beide cursussen?
 \end_layout
 
@@ -112,11 +116,47 @@ Planning vanavond
 \end_layout
 
 \begin_layout Section
+Doel
+\end_layout
+
+\begin_layout Enumerate
+Weten wat beide cursussen zijn
+\end_layout
+
+\begin_layout Enumerate
+Kiezen van een cursus en/of project
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Opzet
 \end_layout
 
 \begin_layout Enumerate
-Leerling kan vrij bewegen tussen beide cursussen (ook naar Lego Mindstorms!)
+Leerling kan elke avond vrij bewegen tussen beide cursussen (ook naar Lego
+ Mindstorms!)
+\end_layout
+
+\begin_layout Enumerate
+Leerlingen zijn vrij projecten te kiezen, te wisselen en te verzinnen
+\end_layout
+
+\begin_layout Enumerate
+De leerlingen geven een richting aan wat elke avond behandeld wordt
+\end_layout
+
+\begin_layout Enumerate
+Iedereen is altijd welkom om in te stromen
+\end_layout
+
+\begin_layout Enumerate
+Alle leeftijden zijn welkom
 \end_layout
 
 \begin_layout Standard
@@ -140,7 +180,7 @@ Elke cursus heeft een theorie- en een projectgedeelte
 
 \begin_layout Standard
 \begin_inset Tabular
-<lyxtabular version="3" rows="5" columns="3">
+<lyxtabular version="3" rows="6" columns="3">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="top" width="0">
 <column alignment="center" valignment="top" width="0">
@@ -169,6 +209,35 @@ A
 
 \begin_layout Plain Layout
 M
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+19:00-19:15
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="1" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Inloop
+\end_layout
+
+\end_inset
+</cell>
+<cell multicolumn="2" alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
 \end_layout
 
 \end_inset
@@ -208,7 +277,7 @@ Introductie: wat gaan beide groepen doen?
 \begin_inset Text
 
 \begin_layout Plain Layout
-20:00-20:30
+19:30-20:30
 \end_layout
 
 \end_inset
@@ -305,6 +374,45 @@ Theorie/Workshop
 \end_layout
 
 \begin_layout Section
+Verschillen: onderwerpen
+\end_layout
+
+\begin_layout Itemize
+Arduino: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Hardware: LEDs, sensoren, LCD displays, motors
+\end_layout
+
+\begin_layout Itemize
+Software: code samenvoegen, arrays, functies, classes
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Makercourse: 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Maker: 3D printen en ontwerpen, lasersnijden en ontwerpen, ?elektrodelassen
+\end_layout
+
+\begin_layout Itemize
+Biologie: DNA extractie en analyse, insecten kweken en koken, gewassen verbouwen
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
 Verschillen: projecten
 \end_layout
 
@@ -347,7 +455,7 @@ Verschillen: aanpak
 \end_layout
 
 \begin_layout Section
-Planning
+Planning deze avond
 \end_layout
 
 \begin_layout Standard
@@ -391,7 +499,7 @@ M
 \begin_inset Text
 
 \begin_layout Plain Layout
-19:15-19:20
+19:15-19:30
 \end_layout
 
 \end_inset
@@ -420,7 +528,7 @@ Introductie: wat gaan beide groepen doen?
 \begin_inset Text
 
 \begin_layout Plain Layout
-19:20-20:00
+19:30-20:00
 \end_layout
 
 \end_inset
@@ -429,7 +537,7 @@ Introductie: wat gaan beide groepen doen?
 \begin_inset Text
 
 \begin_layout Plain Layout
-Projecten
+Projecten Makercourse
 \end_layout
 
 \end_inset
