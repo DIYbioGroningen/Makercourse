@@ -6,7 +6,7 @@
 
 3D printen, Arduino, electronica en lasersnijden zijn technieken die een biologie makerspace gebruikt om experimenten te kunnen doen. Zo kweken we insecten (om op te eten!), doen we onderzoek met DNA, verven we met bacterien en meer. Vind je biologie leuk en/of deze technieken, doe dan mee met de Makercourse bij De Jonge Onderzoekers!
 
-Over de cursus
+## Over de cursus
 
  * Wanneer: elke vrijdagavond
  * Hoe laat: van 19:00-22:00 (pauze van 20:30-21:00)
@@ -16,11 +16,11 @@ Over de cursus
  * Leeftijd: 10 jaar en ouder
  * Wanneer instromen: altijd!
 
-## English
+# Makercourse (English)
 
 Makercourse given by DIYbio at De Jonge Onderzoekers Groningen.
 
-### About the course
+## About the course
 
  * Frequency: Weekly
  * Day: Fridays
@@ -30,3 +30,10 @@ Makercourse given by DIYbio at De Jonge Onderzoekers Groningen.
  * Costs: 10 euro, once
  * Age: 10 years old and above
  * When to enter: anytime!
+
+## GitHub structure
+
+[The course setup](CourseSetup.md)
+ * Presentations: one speaks, the rest listens
+ * Projects: multi-week group collaboration
+ * Workshops: one speaks, the rest has to do things
