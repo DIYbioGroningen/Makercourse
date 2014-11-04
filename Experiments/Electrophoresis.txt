@@ -1,5 +1,12 @@
+# Electroforese
 
-# 1% agarose gel
+## Benodigdheden
+ * 1 gram (=een halve theelepel) agarose 
+ * 2 ml 50x TAE
+ * 97 ml water
+ * 2 ul SYBR-SAFE (het aluminium folie afgedekte cupje)
+
+## Protocol
 
  * Maak de agarose oplossing:
   * 1 gram (=een halve theelepel) agarose 
