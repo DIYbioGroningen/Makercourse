@@ -6,9 +6,12 @@ DNA kun je halen uit:
 
 ## Benodigdheden
 
+ * centrifuge
  * keukenzout
- * minstens 1.5 ml demiwater
- * 300 ul 5% Chelex 
+ * Per monster:
+   * 1.5 ml cupje
+   * minstens 1.5 ml demiwater
+   * minstens 300 ul 5% Chelex
  
 ## Spuug
 
