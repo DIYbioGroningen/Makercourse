@@ -37,7 +37,7 @@ Ga nu verder bij 'Verder'.
 
 Ga nu verder bij 'Verder'.
 
- ## Verder
+## Verder
  
  * Voeg 100 ul demiwater toe, resuspendeer en zet op ijs. PAS OP: doe snel de volgende stap!
 
