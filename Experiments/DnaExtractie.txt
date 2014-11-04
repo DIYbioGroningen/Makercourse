@@ -1,0 +1,34 @@
+# DNA extractie
+
+DNA kun je halen uit:
+- spuug
+- bloed
+
+## Spuug
+
+ * Maak een zoutoplossing van 0.9% keukenzout en water
+ * Spoel je mond 30 seconden met 10 ml zoutoplossing
+ * Laat 1,5 ml van je mond in een grote eppendorf tube lopen
+ * Centrifugeer 5 minuten op maximale snelheid
+ * De pellet bestaat uit cellen, gooi het supernatant zoveel mogelijk weg
+ * Voeg 100 ul demiwater toe, resuspendeer en zet op ijs
+
+## Bloed
+ 
+ * Doe twee druppels in een 1.5 ml cupje
+ * Voeg 100 ul demiwater toe
+ * Schud goed of meng met pipetpunt
+ * Zet op ijs
+ 
+ 
+ ## Verder
+ 
+ * Voeg 300 ml 5% Chelex toe aan de pellet met cellen. NIET resuspenderen, omdat anders de pipetpunt verstopt
+ * Schud de cellen-met-Chelex oplossing. NIET resuspenderen, omdat anders de pipetpunt verstopt
+ * Verhit de cellen-met-Chelex oplossing 5 minuten met kokend water
+ * Open het cupje, zodat de druk kan ontsnappen. PAS OP: heet!
+ * Sluit het cupje weer
+ * Schud de cellen-met-Chelex oplossing 1 minuut
+ * Centrifugeer 1 minuut
+ * Pipetteer 50 ul supernatant (met DNA) in een ander cupje. PAS OP: laat de neergeslagen Chelex pellet onberoerd
+ * Zet het supernatant op ijs
