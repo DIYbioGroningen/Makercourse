@@ -47,7 +47,16 @@ MW = 8895
 ```
  
  * 5 ul DNA (vanuit het 'Dna Extractie' protocol
+[???] * 5 ul restriction enzymes
 
+```
+Thermo Scientific
+10x FastDigest 
+Green buffer
+1 ml
+```
+ 
+ 
 ## PCR programma
 
 Het totale PCR programma bestaat uit 4 programma's:
@@ -90,6 +99,7 @@ Elk programma bestaat uit een of meerdere segmenten. In dit geval bestaat elk pr
    * Voeg 5 ul Primer_1 toe (houd de Primer_1 op ijs!)
    * Voeg 5 ul Primer_2 toe (houd de Primer_2 op ijs!)
    * Voeg 5 ul DNA toe
+[???]   * Voeg 5 ul restrictie enzymen toe
    * Voeg 15 ul Master Mix toe (houd de Master Mix op ijs!). PAS OP: doe deze stap als laatst, zo kort mogelijk voor de daadwerkelijke PCR
  * Maak een positieve controle: 
    * Zelfde als een normaal monster, maar dan met bekend DNA
