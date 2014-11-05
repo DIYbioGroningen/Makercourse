@@ -10,14 +10,14 @@ DNA kun je halen uit:
  * keukenzout
  * Per monster:
    * 1.5 ml cupje
-   * minstens 1.5 ml demiwater
+   * minstens 10 ml demiwater per monster
    * minstens 300 ul 5% Chelex
  
 ## Spuug
 
- * Maak minstens 1.5 ml 0.9% zoutoplossing, hier twee voorbeelden:
-   * 10 ml: 10 ml water en 0.09 gram  keukenzout
-   * 100 ml: 100 ml water en 0.9 gram  keukenzout
+ * Maak minstens 10 ml 0.9% zoutoplossing per monster, hier twee voorbeelden:
+   * 10 ml: 10 ml water en 0.09 gram keukenzout
+   * 100 ml: 100 ml water en 0.9 gram keukenzout
 
 De zoutoplossing heeft dezelfde concentratie als je lichaamscellen. Hierdoor knappen ze niet kapot door osmose.
    

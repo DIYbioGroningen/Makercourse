@@ -18,7 +18,7 @@ Lot. No. 145044684
 
 ```
 Sigma 1193 SY13094176-022
-Checking primer_2
+Checking primer_1
 5' GAACTG...CGCCG
 15 OD
 498.9 ug
@@ -45,17 +45,8 @@ Tm = 80.8 degrees Celsius
 MW = 8895
 0 uL (?geen idee wat dit betekent)
 ```
- 
- * 5 ul DNA (vanuit het 'Dna Extractie' protocol
-[???] * 5 ul restriction enzymes
 
-```
-Thermo Scientific
-10x FastDigest 
-Green buffer
-1 ml
-```
- 
+ * 5 ul DNA (vanuit het 'Dna Extractie' protocol 
  
 ## PCR programma
 
@@ -99,7 +90,6 @@ Elk programma bestaat uit een of meerdere segmenten. In dit geval bestaat elk pr
    * Voeg 5 ul Primer_1 toe (houd de Primer_1 op ijs!)
    * Voeg 5 ul Primer_2 toe (houd de Primer_2 op ijs!)
    * Voeg 5 ul DNA toe
-[???]   * Voeg 5 ul restrictie enzymen toe
    * Voeg 15 ul Master Mix toe (houd de Master Mix op ijs!). PAS OP: doe deze stap als laatst, zo kort mogelijk voor de daadwerkelijke PCR
  * Maak een positieve controle: 
    * Zelfde als een normaal monster, maar dan met bekend DNA
