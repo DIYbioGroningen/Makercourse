@@ -1,0 +1,11 @@
+# Progress OpenerPCR october 2014
+
+It appeared we broke another Peltier element again (it is used for heating and cooling). It is known to be a fragile part, but that it already breaks by falling two centimeters was still unexpected. A new part was bought and tested. Only a couple of seconds connection to an ATX was enough to be sure it works.
+
+The OpenerPCR needs to have two modules to be added to the main board: an inverter and a relay board. Richel tried to etch these PCBs three times and failed thrice. For Winand, however, this is a piece of cake. The probable error Richel makes is that he lets the PCB hang in the blue cupperpersulphate bath for too long. 
+
+Next to this, their has been made some improvements on the front of the casing: the debugging LEDs of the H bridge are in place, together with some explanatory grooves. These grooves can still be improved though in their aesthetics.
+
+
+
+
