@@ -8,7 +8,7 @@ This proposed course setup is chosen to deal with the irregularity of DIYbio's b
 
 ## Course goal
 
-To bring more advanced biology expriments within reach of everybody.
+To bring more advanced biology experiments within reach of everybody.
 
 To reach this goal, we need to:
  * talk about diverse topics in biology
